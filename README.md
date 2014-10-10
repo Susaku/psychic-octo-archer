@@ -1,7 +1,7 @@
 psychic-octo-archer
 ===================
 
-## Bestaunt meine Macht
+## Bestaunt meine Macht ihr niederen Kreaturen!!!
 
 ### oder sonst...
 
